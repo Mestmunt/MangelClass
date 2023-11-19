@@ -1,7 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 97vh;
+}
+
 header{
     text-align: center;
+    background-color: antiquewhite;
+    min-height: 5cm; 
 }
 
 footer{
-    margin-bottom: 1cm;
+    margin-top: auto;
+    background-color: blue;
 }
